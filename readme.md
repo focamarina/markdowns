@@ -75,4 +75,7 @@ const app = express();
 
 <!-- GitHub MD -->
 * [x] Tarea 1
-* [] Tarea 2
+* [ ] Tarea 2
+
+@focamarina </br>
+:fire:
