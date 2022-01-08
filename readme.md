@@ -77,5 +77,5 @@ const app = express();
 * [x] Tarea 1
 * [ ] Tarea 2
 
-@focamarina </br>
+@focamarina
 :fire:
